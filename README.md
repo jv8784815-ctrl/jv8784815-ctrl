@@ -34,17 +34,22 @@
 
 ## stats
 
-<div align="center">
-
-<img src="https://ghstats.dev/api/mini?username=jv8784815-ctrl&theme=midnight_sakura&metric=hours&style=flat-square" alt="GitHub Mini Badge" />
-
-<img src="https://ghstats.dev/api/langs?username=jv8784815-ctrl&theme=midnight_sakura&hide_border=true" alt="Top Languages" />
-
-<img src="https://ghstats.dev/api/card?username=jv8784815-ctrl&theme=midnight_sakura&hide_border=true&hide_title=true" alt="GitHub Stats Card" />
-
-<img src="https://ghstats.dev/api/sparkline?username=jv8784815-ctrl&theme=midnight_sakura&days=67&width=320&height=80&hide_border=true" alt="Contribution Sparkline" />
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://ghstats.dev/api/mini?username=jv8784815-ctrl&theme=midnight_sakura&metric=hours&style=flat-square" alt="GitHub Mini Badge" /><br/>
+      <img src="https://ghstats.dev/api/langs?username=jv8784815-ctrl&theme=midnight_sakura&hide_border=true" alt="Top Languages" />
+    </td>
+    <td align="center">
+      <img src="https://ghstats.dev/api/card?username=jv8784815-ctrl&theme=midnight_sakura&hide_border=true&hide_title=true" alt="GitHub Stats Card" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://ghstats.dev/api/sparkline?username=jv8784815-ctrl&theme=midnight_sakura&days=67&width=600&height=100&hide_border=true" alt="Contribution Sparkline" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -68,6 +73,6 @@
 
 <div align="center">
 
-*"el código no siempre compila a la primera, pero mumca hay que rendirse" 🌌*
+*"el código no siempre compila a la primera, pero nunca hay que rendirse" 🌌*
 
 </div>
