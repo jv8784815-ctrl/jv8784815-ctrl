@@ -68,6 +68,6 @@
 
 <div align="center">
 
-*"el código no siempre compila a la primera, pero la vibra siempre está" 🌌*
+*"el código no siempre compila a la primera, pero mumca hay que rendirse" 🌌*
 
 </div>
