@@ -10,17 +10,16 @@
 
 ---
 
-## sobre mí
+## Sobre mí
 
 - 🎧 hago cosas en python y kotlin, sobre todo apps para android
 - ✨ todo esto lo hago por diversión y para aprender, no me lo tomo muy en serio jaja
-- 🔧 si algo se rompe, lo arreglo (o pregunto por ahí hasta que funcione)
-- 🌸 fan del anime, y eso se nota hasta en mi perfil
+- 🔧 si algo se rompe, lo arreglo
 - 📱 ando en tiktok mostrando lo que hago
 
 ---
 
-## con qué trabajo
+## Con qué trabajo
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -32,7 +31,7 @@
 
 ---
 
-## stats
+## Stats
 
 <table align="center">
   <tr>
@@ -53,7 +52,7 @@
 
 ---
 
-## mi actividad
+## Mi actividad
 
 <div align="center">
 
@@ -63,7 +62,7 @@
 
 ---
 
-## encuéntrame
+## Encuéntrame
 
 <div align="center">
 
