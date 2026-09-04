@@ -15,7 +15,6 @@
 - 🎧 hago cosas en python y kotlin, sobre todo apps para android
 - ✨ todo esto lo hago por diversión y para aprender, no me lo tomo muy en serio jaja
 - 🔧 si algo se rompe, lo arreglo
-- 📱 ando en tiktok mostrando lo que hago
 
 ---
 
