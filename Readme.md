@@ -2,9 +2,9 @@
 
 <img src="./banner.png" width="100%" alt="banner" />
 
-# 🌙 José V. 👾
+# José V.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B993D6&center=true&vCenter=true&width=435&lines=hola%2C+soy+Josexo;programo+en+python+%26+kotlin;aprendiendo+algo+nuevo+cada+d%C3%ADa" alt="Typing SVG" />
+### Hola, soy Josexo
 
 </div>
 
@@ -12,13 +12,13 @@
 
 ## Sobre mí
 
-- 🎧 hago cosas en python y kotlin, sobre todo apps para android
-- ✨ todo esto lo hago por diversión y para aprender, no me lo tomo muy en serio jaja
-- 🔧 si algo se rompe, lo arreglo
+- Desarrollo principalmente en Python y Kotlin, con foco en apps para Android.
+- Aprendo haciendo: cada proyecto es una excusa para probar algo nuevo.
+- Me gusta entender el porqué de las cosas, no solo que funcionen.
 
 ---
 
-## Con qué trabajo
+## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -30,7 +30,7 @@
 
 ---
 
-## Stats
+## Estadísticas
 
 <table align="center">
   <tr>
@@ -51,7 +51,7 @@
 
 ---
 
-## Mi actividad
+## Actividad
 
 <div align="center">
 
@@ -61,7 +61,7 @@
 
 ---
 
-## Encuéntrame
+## Contacto
 
 <div align="center">
 
@@ -71,6 +71,6 @@
 
 <div align="center">
 
-*"el código no siempre compila a la primera, pero nunca hay que rendirse" 🌌*
+*"El código no siempre compila a la primera, pero nunca hay que rendirse."*
 
 </div>
